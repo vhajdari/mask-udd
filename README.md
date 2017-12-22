@@ -2,8 +2,6 @@
 
 CDAP provides extensive support for user defined directives (UDDs) as a way to specify custom processing for DataPrep in CDAP. CDAP UDDs can currently be implemented in Java.
 
-CDAP provides the most extensive support for Java functions. 
-
 This UDD uses a Ceasar cipher to scramble text.  It is not meant to be used in cases where you need strong encryption as Ceasar cihper is not very secure and any text scrambled with it can be easily unscrambled.
 
 With this UDD you will be able to scramble columns of data so that the masked field can be used in join operations. 
