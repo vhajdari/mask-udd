@@ -9,7 +9,7 @@ With this UDD you will be able to scramble columns of data so that the masked fi
 
 ## Usage Example
 
-mask-scramble :<column_name> <cipher> <shift>
+mask-scramble `:<column_name>` `<cipher>` `<shift>`
 
 mask-scramble :firstName ceasar 9
 
