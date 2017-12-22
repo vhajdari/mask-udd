@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>simple-udds</artifactId>
-  <name>Simple User Defined Directives</name>
+  <artifactId>mask-scramble</artifactId>
+  <name>Masking UDD</name>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
